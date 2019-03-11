@@ -87,3 +87,4 @@
 
 [LeoChen98/chaoxing](https://github.com/LeoChen98/chaoxing)
 
+[xSandie/pyKillCourse](https://github.com/xSandie/pyKillCourse) 
