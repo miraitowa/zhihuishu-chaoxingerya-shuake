@@ -10,6 +10,8 @@
 
 如果你感觉这个项目不错请给一个star，你的支持是我前进最大的动力(Ths）
 
+如果有大佬写了新的插件，也希望能够PR
+
 本项目会持续维护！！！！
 
 ### 智慧树 ###
@@ -88,3 +90,5 @@
 [LeoChen98/chaoxing](https://github.com/LeoChen98/chaoxing)
 
 [xSandie/pyKillCourse](https://github.com/xSandie/pyKillCourse) 
+
+[HollowMan6/ChaoXing-ErYa-Wisdom-Tree-Lessons-Helper](https://github.com/HollowMan6/ChaoXing-ErYa-Wisdom-Tree-Lessons-Helper)
