@@ -62,6 +62,8 @@
 
 [netsssss/imuke](https://github.com/netsssss/imuke)
 
+[laodiaoyadashu/zhihuishu](https://github.com/laodiaoyadashu/zhihuishu)
+
 ### 超星尔雅 ###
 
 [CodFrm/cxmooc-tools](https://github.com/CodFrm/cxmooc-tools)
