@@ -24,6 +24,7 @@
 
 [jokin1999/zhihuishu-web](https://github.com/jokin1999/zhihuishu-web)
 
+[CodFrm/cxmooc-tools](https://github.com/CodFrm/cxmooc-tools)
 
 [jerryshell/fuck-zhihuishu](https://github.com/jerryshell/fuck-zhihuishu)
 
