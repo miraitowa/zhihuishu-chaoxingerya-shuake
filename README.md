@@ -64,11 +64,20 @@
 
 [laodiaoyadashu/zhihuishu](https://github.com/laodiaoyadashu/zhihuishu)
 
+[lifegpc](https://github.com/lifegpc/fuckchaoxing)
+
+[OnlineCourseScript](https://github.com/klskeleton/OnlineCourseScript)
+
+
 ### 超星尔雅 ###
 
 [CodFrm/cxmooc-tools](https://github.com/CodFrm/cxmooc-tools)
 
+[lifegpc](https://github.com/lifegpc/fuckchaoxing)
+
 [Cicadafish/jsnu_Erya](https://github.com/Cicadafish/jsnu_Erya)
+
+[OnlineCourseScript](https://github.com/klskeleton/OnlineCourseScript)
 
 [dzj0821/ChaoXingAutoPlayVideo](https://github.com/dzj0821/ChaoXingAutoPlayVideo)
 
